@@ -7,9 +7,9 @@
 ========================================== */
 
 body {
-  --angle: 180deg;
+  --angle: 230deg;
 
-  background: linear-gradient(var(--angle), red, blue);
+  background: linear-gradient(var(--angle), #b9b9b9, #060606);
   font-family: "Roboto Condensed", sans-serif;
   margin: 0;
   height: 100vh;
